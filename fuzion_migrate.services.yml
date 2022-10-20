@@ -1,0 +1,7 @@
+services:
+  fuzion_migrate.event_subscriber:
+    class: Drupal\fuzion_migrate\EventSubscriber\FuzionMigrateSubscriber
+    arguments: ['@config.factory']
+    tags:
+      - { name: event_subscriber }
+

@@ -1,0 +1,8 @@
+# Schema for the configuration files of the Fuzion Migrate module.
+fuzion_migrate.settings:
+  type: config_object
+  label: 'Fuzion Migrate settings'
+  mapping:
+    example:
+      type: string
+      label: 'Example'

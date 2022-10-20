@@ -1,0 +1,7 @@
+fuzion_migrate.settings_form:
+  path: '/admin/config/system/fuzion-migrate'
+  defaults:
+    _title: 'Fuzion Migrate settings'
+    _form: 'Drupal\fuzion_migrate\Form\SettingsForm'
+  requirements:
+    _permission: 'administer fuzion_migrate configuration'

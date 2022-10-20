@@ -1,0 +1,10 @@
+name: Fuzion Migrate
+type: module
+description: Migration Tools for Fuzion
+package: Custom
+core_version_requirement: ^9 || ^10
+dependencies:
+  - migrate_plus
+  - migrate_tools
+  - migrate_upgrade
+  - migrate

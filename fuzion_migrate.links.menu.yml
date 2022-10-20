@@ -1,0 +1,6 @@
+fuzion_migrate.settings_form:
+  title: 'Fuzion Migrate'
+  description: 'Configure Fuzion Migrate.'
+  parent: system.admin_config_system
+  route_name: fuzion_migrate.settings_form
+  weight: 10
