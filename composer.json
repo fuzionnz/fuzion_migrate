@@ -9,7 +9,6 @@
   	   "drupal/migrate_tools":"^6.0",
            "drupal/migrate_upgrade":"^4.0",
            "drupal/webform_civicrm": "^6.1",
-	   "drupal/webform_migrate": "^1.0",
 	   "drupal/migrate_plus": "^6.0"
     },
     "minimum-stability": "dev"
